@@ -1,3 +1,3 @@
 # teargas
-simple code on html and styling using css
+simple code using html and styling using css
 
